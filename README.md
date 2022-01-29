@@ -1,8 +1,7 @@
-# Welcome to your CDK TypeScript project!
+# cdk-sam-browser
 
-This is a blank project for TypeScript development with CDK.
+CDK + SAM Project using Chrome+Puppeteer in a Lambda Layer, with an example StepFunctions State Machine to simulate an Uptime Tracker.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
 
